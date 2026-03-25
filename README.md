@@ -1,12 +1,12 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:58A6FF&height=200&section=header&text=Hey,%20I'm%20Yaroslav%20👋&fontSize=45&fontColor=ffffff&fontAlignY=38&desc=Senior%20Software%20Engineer%20%40%20Zoopla&descSize=20&descAlignY=58&descColor=a0c4ff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:58A6FF&height=200&section=header&text=Hey,%20I'm%20Yaroslav%20👋&fontSize=45&fontColor=ffffff&fontAlignY=38&desc=Senior%20Software%20Engineer&descSize=20&descAlignY=58&descColor=a0c4ff" />
 </div>
 
 ---
 
 ## 🧑‍💻 About Me
 
-- 🏗️ **Senior Software Engineer** at [Zoopla](https://zoopla.co.uk) — building products used by millions across the UK
+- 🏗️ **Senior Software Engineer** — building products used by millions across the UK
 - ⚡ Full-stack engineer comfortable across the entire stack — **React / Next.js** on the frontend, **Node.js / GraphQL / Go / Python** on the backend
 - ☁️ Shipping production systems on **AWS** — lambdas, event-driven pipelines, ephemeral environments, microservices
 - 🤖 AI enthusiast — built a real-time **sign language detector** with TensorFlow & Gemini, and a **ChatGPT Telegram bot**
