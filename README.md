@@ -1,8 +1,6 @@
-# Hey, I'm Yaroslav 👋
-
-<p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&width=500&lines=Senior+Software+Engineer+%40+Zoopla;GraphQL+%2F+TypeScript+%2F+React;Building+things+with+AI+🤖;JS+Meetup+Speaker+🎤" alt="Typing SVG" />
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:58A6FF&height=200&section=header&text=Hey,%20I'm%20Yaroslav%20👋&fontSize=45&fontColor=ffffff&fontAlignY=38&desc=Senior%20Software%20Engineer%20%40%20Zoopla&descSize=20&descAlignY=58&descColor=a0c4ff" />
+</div>
 
 ---
 
@@ -51,7 +49,7 @@
 
 ## 📊 GitHub Stats
 
-<p align="left">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YaroslavMatushevych&show_icons=true&theme=github_dark&hide_border=true" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YaroslavMatushevych&layout=compact&theme=github_dark&hide_border=true" height="165" />
 </p>
@@ -65,4 +63,6 @@
 
 ---
 
-<p align="center"><i>"Any fool can write code that a computer can understand. Good programmers write code that humans can understand." – Martin Fowler</i></p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:1a1b27&height=100&section=footer" />
+</div>
