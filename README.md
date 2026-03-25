@@ -1,0 +1,68 @@
+# Hey, I'm Yaroslav 👋
+
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&width=500&lines=Senior+Software+Engineer+%40+Zoopla;GraphQL+%2F+TypeScript+%2F+React;Building+things+with+AI+🤖;JS+Meetup+Speaker+🎤" alt="Typing SVG" />
+</p>
+
+---
+
+## 🧑‍💻 About Me
+
+- 🏗️ **Senior Software Engineer** at [Zoopla](https://zoopla.co.uk) — UK's leading property platform
+- 🔗 Working on **GraphQL BFF** (Apollo Server) powering millions of property searches
+- 🤖 Passionate about **AI** — built a real-time sign language detector with TensorFlow & Gemini
+- 🎤 **Speaker** at Monthly JS Meetups — latest talk: *JS Debugging in 2026*
+- 🧩 Grinding **LeetCode** in my spare time
+- ☕ Fuelled entirely by coffee
+
+---
+
+## 🛠️ Tech Stack
+
+**Frontend**
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+
+**Backend**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+
+**Cloud & Tools**
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Stack |
+|--------|-------------|-------|
+| [✋ Signify](https://github.com/YaroslavMatushevych/signify-ai-gesture-language-detection) | AI-powered real-time sign language recognition | TensorFlow · Gemini · React |
+| [🚗 UK Driving Test Finder](https://github.com/YaroslavMatushevych/uk-driving-test-cancellation-finder) | Finds driving test cancellations automatically | Node.js |
+| [🏠 Mortgage Calculator](https://github.com/YaroslavMatushevych/mortgage-calculator-scalePad-Yarma) | BC Canada mortgage calculator with SSR/SSG | Next.js · TypeScript · SCSS |
+| [🎤 JS Debugging 2026](https://github.com/YaroslavMatushevych/js-debugging-2026) | Talk slides: Tools, tricks & things you didn't know | React |
+| [🤖 ChatGPT Telegram Bot](https://github.com/YaroslavMatushevych/chatgpt-telegram-bot) | Telegram bot powered by ChatGPT | Node.js |
+
+---
+
+## 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=YaroslavMatushevych&show_icons=true&theme=github_dark&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YaroslavMatushevych&layout=compact&theme=github_dark&hide_border=true" height="165" />
+</p>
+
+---
+
+## 📬 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yaroslav-matushevych)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/YaroslavMatushevych)
+
+---
+
+<p align="center"><i>"Any fool can write code that a computer can understand. Good programmers write code that humans can understand." – Martin Fowler</i></p>
