@@ -6,12 +6,12 @@
 
 ## 🧑‍💻 About Me
 
-- 🏗️ **Senior Software Engineer** — building products used by millions across the UK
-- ⚡ Full-stack engineer comfortable across the entire stack — **React / Next.js** on the frontend, **Node.js / GraphQL / Go / Python** on the backend
-- ☁️ Shipping production systems on **AWS** — lambdas, event-driven pipelines, ephemeral environments, microservices
-- 🤖 AI enthusiast — built a real-time **sign language detector** with TensorFlow & Gemini, and a **ChatGPT Telegram bot**
-- 🎤 **Public speaker** — presented *JS Debugging in 2026* at Monthly JS Meetup
-- 🧩 Consistent **LeetCode** grinder — always sharpening algorithmic thinking
+- 🏗️ **Senior Software Engineer** - building products used by millions across the UK
+- ⚡ Full-stack engineer comfortable across the entire stack - **React / Next.js** on the frontend, **Node.js / GraphQL / Go / Python** on the backend
+- ☁️ Shipping production systems on **AWS** - lambdas, event-driven pipelines, ephemeral environments, microservices
+- 🤖 AI enthusiast - built a real-time **sign language detector** with TensorFlow & Gemini, and a **ChatGPT Telegram bot**
+- 🎤 **Public speaker** - presented *JS Debugging in 2026* at Monthly JS Meetup in London
+- 🧩 Consistent **LeetCode** grinder - always sharpening algorithmic thinking
 - ☕ Fuelled entirely by coffee
 
 ---
