@@ -6,11 +6,12 @@
 
 ## 🧑‍💻 About Me
 
-- 🏗️ **Senior Software Engineer** at [Zoopla](https://zoopla.co.uk) — UK's leading property platform
-- 🔗 Working on **GraphQL BFF** (Apollo Server) powering millions of property searches
-- 🤖 Passionate about **AI** — built a real-time sign language detector with TensorFlow & Gemini
-- 🎤 **Speaker** at Monthly JS Meetups — latest talk: *JS Debugging in 2026*
-- 🧩 Grinding **LeetCode** in my spare time
+- 🏗️ **Senior Software Engineer** at [Zoopla](https://zoopla.co.uk) — building products used by millions across the UK
+- ⚡ Full-stack engineer comfortable across the entire stack — **React / Next.js** on the frontend, **Node.js / GraphQL / Go / Python** on the backend
+- ☁️ Shipping production systems on **AWS** — lambdas, event-driven pipelines, ephemeral environments, microservices
+- 🤖 AI enthusiast — built a real-time **sign language detector** with TensorFlow & Gemini, and a **ChatGPT Telegram bot**
+- 🎤 **Public speaker** — presented *JS Debugging in 2026* at Monthly JS Meetup
+- 🧩 Consistent **LeetCode** grinder — always sharpening algorithmic thinking
 - ☕ Fuelled entirely by coffee
 
 ---
@@ -21,17 +22,20 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=flat&logo=svelte&logoColor=white)
 
 **Backend**
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 
 **Cloud & Tools**
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 
 ---
 
